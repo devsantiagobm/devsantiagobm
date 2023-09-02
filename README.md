@@ -7,7 +7,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I'm <b>Santiago Barrera Muñoz</b>, a passionate full-stack developer who primarily specializes in frontend development. However, I also enjoy taking on backend challenges when the opportunity arises</p>
-        <p>• 🌐 My Portfolio: <b>Check out my portfolio to see my latest projects and explore my work in more detail at <a href="https://devsantiago.com">devsantiago.com</a></b></p>
+        <p>• 🌐 My Portfolio: <b>Check out my portfolio to see my latest projects and explore my work in more detail at <a href="https://devsantiago.com" target="_blank">devsantiago.com</a></b></p>
         <p>• 🎯 Goals: <b>I'm constantly working on improving my skills. My current focus is on mastering Javascript, and I'm excited about the possibilities it offers.</b></p>
         <p>• 📫 How to reach me: <b>santiago.bm.dev@gmail.com</b></p>
 </div><br>
@@ -22,15 +22,5 @@
   <h3>🧰 Languages and tools I employ daily</h3><br>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark&perline=9" />
-    </p>
-</div>
-
-___
-
-<div>
-  <h3>📱 Social Medias:</h3><br>
-    <p align="center">
-    <a href="https://www.linkedin.com/in/devsantiagobm" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&" /></a>
-    <a href="https://discord.com/channels/@me/710966828767117372" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark&" /></a>
     </p>
 </div>
