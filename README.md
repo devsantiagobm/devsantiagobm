@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" 
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&theme=dark" alt="gabrlcj"/> 
+    
 <a href="https://github.com/chakravarthi-v">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiagobm&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
