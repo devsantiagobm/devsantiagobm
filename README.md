@@ -20,7 +20,7 @@
 
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark&perline=9" />
 </div>
 
 ___
