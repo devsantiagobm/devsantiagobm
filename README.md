@@ -13,12 +13,12 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiagobm&theme=dark" height="220px"/>
 </div>
+    <br/>
     
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=dark" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=dark" />
-</div>div>
----
+</div>
 
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
