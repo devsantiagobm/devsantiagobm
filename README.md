@@ -1,11 +1,6 @@
-<table>
-    <td>
         
-<img src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-    </td>
-    <td>
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
         
-    
 <h1 align="left">Hi 👋🏽, I'm Santiago Barrera</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
@@ -21,8 +16,6 @@
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
-    </td>
-</table>
     
 ---
 
