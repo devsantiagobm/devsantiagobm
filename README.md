@@ -13,16 +13,16 @@
 </div><br>
 
 <div align="center">
-    <p align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    </p>
 </div>
     
 ---
 
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
+    <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark&perline=9" />
+    </p>
 </div>
 
 ___
