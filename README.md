@@ -6,14 +6,13 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
+        <p>• 📚 I'm <b>Santiago Barrera Muñoz</b>, a passionate full-stack developer who primarily specializes in frontend development. However, I also enjoy taking on backend challenges when the opportunity arises</p>
+        <p>• 🌐 My Portfolio: <a href="[dev](https://devsantiago.com/)">Check out my portfolio to see my latest projects and explore my work in more detail.</a></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
 </div><br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsantiagobm&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
     
