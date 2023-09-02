@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
-<h1 align="left" style="font-size: '60px'; ">Hi 👋🏽, I'm Santiago Barrera</h1>
+<h1 align="left" style="color: red; ">Hi 👋🏽, I'm Santiago Barrera</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
