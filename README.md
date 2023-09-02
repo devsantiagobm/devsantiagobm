@@ -20,7 +20,7 @@
 
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </div>
 
 ___
