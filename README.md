@@ -21,7 +21,7 @@
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,javascript,html,mysql,css,react,javascript,html,mysql,css&perline=5&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark" />
     </p>
 </div>
 
