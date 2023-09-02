@@ -1,5 +1,5 @@
         
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://img.freepik.com/vector-gratis/ilustracion-concepto-adiccion-juegos-linea_114360-2014.jpg?w=740&t=st=1693626248~exp=1693626848~hmac=8faca9c4b7a79bf1352d6c1ce37a1a8a080f85f53a436f9d80bd6fc0939e8eb5" alt="Illustration" title="Illustration Storyset" width=450/>
         
 <h1 align="left">Hi 👋🏽, I'm Santiago Barrera</h1>
 
