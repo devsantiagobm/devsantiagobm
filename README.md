@@ -13,10 +13,12 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiagobm&theme=dark" height="220px"/>
 </div>
-    <br/>
-    
+<br/>
+---------    
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=dark" />
+    <a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=dark" />
+    </a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=dark" />
 </div>
 
