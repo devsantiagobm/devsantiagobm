@@ -19,9 +19,9 @@
 <h3>🚀 Featured Projects</h3><br>
 <div align="center">
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" height="150px"/>
     </a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" height="150px"/>
 </div>
 <br/>
 
