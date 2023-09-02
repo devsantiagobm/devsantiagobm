@@ -20,5 +20,7 @@
   <h3>🧰 Languages and tools I employ daily</h3><br>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,js,ts,nextjs,mongodb,php,mysql,html,css,sass,styledcomponents,pug,figma,firebase,tailwind&theme=dark&perline=9" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App.github.io&theme=dark" />
     </p>
 </div>
