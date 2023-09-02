@@ -7,7 +7,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I'm <b>Santiago Barrera Muñoz</b>, a passionate full-stack developer who primarily specializes in frontend development. However, I also enjoy taking on backend challenges when the opportunity arises</p>
-        <p>• 🌐 My Portfolio: <a href="[dev](https://devsantiago.com/)">Check out my portfolio to see my latest projects and explore my work in more detail.</a></p>
+        <p>• 🌐 My Portfolio: <a href="https://devsantiago.com/" color="blue">Check out my portfolio to see my latest projects and explore my work in more detail.</a></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
 </div><br>
