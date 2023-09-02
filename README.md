@@ -20,7 +20,9 @@
 
 <div>
   <h3>🧰 Languages and tools I employ daily</h3><br>
-     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+     <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,javascript,html,mysql,css,react,javascript,html,mysql,css&perline=5&theme=dark" />
+    </p>
 </div>
 
 ___
