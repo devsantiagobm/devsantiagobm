@@ -21,7 +21,7 @@
     <a href="https://github.com/devsantiagobm/Entertaiment-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" height="100px"/>
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/devsantiagobm/audiophile">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" height="100px"/>
     </a>
