@@ -19,11 +19,11 @@
 <h3>🚀 Featured Projects</h3><br>
 <div align="center">
     <a href="https://github.com/devsantiagobm/Entertaiment-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" height="100px"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" height="110px"/>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/devsantiagobm/audiophile">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" height="100px"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" height="110px"/>
     </a>
 </div>
 <br/>
