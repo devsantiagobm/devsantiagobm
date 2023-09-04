@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
 
-<h1 align="left">Hi 👋🏽, I'm Santiago Barrera</h1>
+<h1 align="left">Hi 👋, I'm Santiago Barrera</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
     
@@ -18,11 +18,13 @@
 ----
 <h3>🚀 Featured Projects</h3><br>
 <div align="center">
-    <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent"/>
+    <a href="https://github.com/devsantiagobm/Entertaiment-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=Entertaiment-App&theme=transparent" height="100px"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent"/>
+    <a href="https://github.com/devsantiagobm/audiophile">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsantiagobm&repo=audiophile&theme=transparent" height="100px"/>
+    </a>
 </div>
 <br/>
 
